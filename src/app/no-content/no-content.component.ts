@@ -4,7 +4,9 @@ import { Component } from '@angular/core';
   selector: 'no-content',
   template: `
     <div>
-      <h1>404: page missing</h1>
+      <h1>404: page missing in the root</h1>
+      go to portal site:
+      
     </div>
   `
 })
